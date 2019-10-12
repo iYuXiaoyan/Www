@@ -1,10 +1,10 @@
 # Site settings
-title: Microdust
+title: XiaoYan
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+tagline: "这里是tagline"  
+description: "阅读·写作·编程·投资"  
 baseurl: ""
-# url: "http://azeril.me"  
+# url: "http://yuxiaoyan.com"  
 # url: "http://localhost:4000"
 
 url: http://stardust.cat
@@ -12,20 +12,20 @@ url: http://stardust.cat
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  name: "XiaoYan"
+  email: iyuxiaoyan@gmail.com
+  bio: "用作品说话！"
 
 # Data
 gavatar: https://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+douban_username: NeedChange
+twitter_username: NeedChange
+github_username: XiaoYanWork  
+facebook_username: NeedChange   
+weibo_username: NeedChange  
+zhihu_username: NeedChange  
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -56,7 +56,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Azeril"
+      author: "Yu Xiaoyan"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
@@ -64,12 +64,12 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Azeril
+    short_name : xiaoyanwork
   disqus :
-      short_name : Azeril
+      short_name : xiaoyanwork
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-66863061-1
+google_analytics: UA-122666414-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
