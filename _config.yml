@@ -1,17 +1,17 @@
 # Site settings
-title: XiaoYan
-header-img: "img/autumn2.jpg"
-tagline: "这里是tagline"  
-description: "阅读·写作·编程·投资"  
+title: 小焱
+header-img: "img/Xacebook.jpg"
+tagline: "这里是tagline"
+description: "阅读·写作·编程·投资"
 baseurl: ""
-# url: "http://yuxiaoyan.com"  
+# url: "http://yuxiaoyan.com"
 # url: "http://localhost:4000"
 
 url: http://yuxiaoyan.com
-# enforce_ssl: 
+# enforce_ssl:
 
 # About/contact
-owner: 
+owner:
   name: "XiaoYan"
   email: iyuxiaoyan@gmail.com
   bio: "用作品说话！"
@@ -22,20 +22,20 @@ favicon: img/favicon.ico
 
 douban_username: NeedChange
 twitter_username: NeedChange
-github_username: XiaoYanWork  
-facebook_username: NeedChange   
-weibo_username: NeedChange  
-zhihu_username: NeedChange  
+github_username: XiaoYanWork
+facebook_username: NeedChange
+weibo_username: NeedChange
+zhihu_username: NeedChange
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
 
-gems: 
+gems:
 ## - jekyll-gallery-generator
 - jekyll-paginate
 permalink: none
@@ -51,7 +51,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -60,7 +60,7 @@ defaults:
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
+# Comments
 comments :
   provider : duoshuo
   duoshuo :
