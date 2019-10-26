@@ -69,6 +69,8 @@ https://github.com/vinta/awesome-python
 - [英文写作辅助网站](http://phrasebank.manchester.ac.uk)
 - [10款屌炸天的chrome插件](https://zhuanlan.zhihu.com/p/65606735?utm_source=wechat_session&utm_medium=social&utm_oi=928747206062800896&from=groupmessage)
 
+-   [ Cmd Markdown](https://www.zybuluo.com/mdeditor)：一款不错的 markdown 编辑器，通过查看[caos](https://www.zybuluo.com/caos/note/84819)的网志发现的。
+
 ## 科研检索
 
 - [SciHub_1](https://sci-hub.tw/):黑客精神在科研界诞生的一位罗宾逊。tw 镜像。
@@ -97,7 +99,7 @@ https://github.com/vinta/awesome-python
 - [MeBook.cc](http://mebook.cc)
 - [ReadFree.me](http://readfree.me)
 
-
+-   [免费电子书基金会-Github](https://github.com/EbookFoundation)
 
 ## 计量校准
 
@@ -114,6 +116,7 @@ https://github.com/vinta/awesome-python
 - [史蒂芬·平克(Steven Pinker)](http://www.stevenpinker.com)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
 - [M-x Chris-An-Emacser](https://chriszheng.science/)
+- [小弟调调](https://wangchujiang.com/):他弄了好多好东西，请见[他的 github](https://github.com/jaywcjlove)
 
 > 查理芒格的综合网站待补充，另外有一堆牛人：道金斯、西蒙、斯坦诺维奇、马奇、芒格、丹尼尔丹尼特、费曼、纳博科夫、阿西莫夫、侯世达、帕金斯、艾科、阿奇舒勒、宇文所安、卡尼曼、吉仁泽、佐藤信夫、
 
@@ -137,4 +140,5 @@ https://github.com/vinta/awesome-python
 - 2018-11-28  在牛人里，增加了保罗·格雷厄姆(Paul Graham)、史蒂芬·平克(Steven Pinker) 、阮一峰
 - 2019-03-23 增加"自由职业者"一栏目，来自[心智工具箱:一点自由](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - 2019-0421 增加维基揭秘网，前几天阿桑奇被捕了，放出了很多文件，还没来得及看看有啥好东西。
+- 2019-10-24 增加了 小弟调调，因为它创建并维护了[awesome-mac](https://github.com/jaywcjlove/awesome-mac)以及[中文诗歌](https://github.com/chinese-poetry等一些好玩的东西。
 
