@@ -50,6 +50,7 @@ https://github.com/vinta/awesome-python
 [十行代码带你量化交易入门](https://www.joinquant.com/view/community/detail/96b0312c74c41b401f3d4f0610479ff2?type=1)
 
 ## 好工具
+- [非常Good的站长在线工具集](https://tool.lu)
 - [简明git命令](https://mp.weixin.qq.com/s/rk8e77pYkbsm9NEKA7n_sA)
 - [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
 - [workflowy](https://workflowy.com/)
@@ -141,4 +142,5 @@ https://github.com/vinta/awesome-python
 - 2019-03-23 增加"自由职业者"一栏目，来自[心智工具箱:一点自由](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - 2019-0421 增加维基揭秘网，前几天阿桑奇被捕了，放出了很多文件，还没来得及看看有啥好东西。
 - 2019-10-24 增加了 小弟调调，因为它创建并维护了[awesome-mac](https://github.com/jaywcjlove/awesome-mac)以及[中文诗歌](https://github.com/chinese-poetry等一些好玩的东西。
+- 2019-11-04 增加了[Good在线工具Kit](https://tool.lu)，我用到的是一个 ico 在线转换工具，当然还有其他好玩的东西。
 
