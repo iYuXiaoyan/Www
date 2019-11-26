@@ -52,7 +52,7 @@ https://github.com/vinta/awesome-python
 ## 好工具
 - [非常Good的站长在线工具集](https://tool.lu)
 - [简明git命令](https://mp.weixin.qq.com/s/rk8e77pYkbsm9NEKA7n_sA)
-- [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
+- [IAToolkit开智信息分析工具箱](https://github.com/iAIClub/IAToolkit)
 - [workflowy](https://workflowy.com/)
 - [石墨文档](https://shimo.im/)
 - wiki？同步到本地的 wiki，github 自身的 wiki 怎么不好？还有别的 wiki？
@@ -69,8 +69,8 @@ https://github.com/vinta/awesome-python
 - [Awesome-webAppMore](<https://github.com/aviaryan/awesome-no-login-web-apps>)
 - [英文写作辅助网站](http://phrasebank.manchester.ac.uk)
 - [10款屌炸天的chrome插件](https://zhuanlan.zhihu.com/p/65606735?utm_source=wechat_session&utm_medium=social&utm_oi=928747206062800896&from=groupmessage)
-
 -   [ Cmd Markdown](https://www.zybuluo.com/mdeditor)：一款不错的 markdown 编辑器，通过查看[caos](https://www.zybuluo.com/caos/note/84819)的网志发现的。
+-   [**Bypass-分流抢票**](https://www.bypass.cn/):一个曾经的大学生做的抢票软件，免费，据说很好用。
 
 ## 科研检索
 
@@ -142,5 +142,5 @@ https://github.com/vinta/awesome-python
 - 2019-03-23 增加"自由职业者"一栏目，来自[心智工具箱:一点自由](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 - 2019-0421 增加维基揭秘网，前几天阿桑奇被捕了，放出了很多文件，还没来得及看看有啥好东西。
 - 2019-10-24 增加了 小弟调调，因为它创建并维护了[awesome-mac](https://github.com/jaywcjlove/awesome-mac)以及[中文诗歌](https://github.com/chinese-poetry等一些好玩的东西。
-- 2019-11-04 增加了[Good在线工具Kit](https://tool.lu)，我用到的是一个 ico 在线转换工具，当然还有其他好玩的东西。
+- 2019-11-04 增加了[Good在线工具Kit](https://tool.lu)，我用到的是一个 ico 在线转换工具，当然还有其他好玩的东西。更新了IAToolkit开智信息分析工具箱的链接，链接到自己可控的地方。
 
