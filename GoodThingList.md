@@ -35,19 +35,21 @@ header-img: "img/semantic.jpg"
 
 
 
-## Python
+## Python编程
 
-https://github.com/iAIClub/ipython
-
-awsome-Python
+[零基础成长为一名-python-工程师](https://github.com/iAIClub/ipython)
 
 <https://github.com/thuquant/awesome-quant>
 
 <https://github.com/wilsonfreitas/awesome-quant>
 
-https://github.com/vinta/awesome-python
+[awsome-Python](https://github.com/vinta/awesome-python)
 
 [十行代码带你量化交易入门](https://www.joinquant.com/view/community/detail/96b0312c74c41b401f3d4f0610479ff2?type=1)
+
+[pip清华镜像](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
+
+[iOS 编程](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
 
 ## 好工具
 - [非常Good的站长在线工具集](https://tool.lu)
