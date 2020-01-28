@@ -72,7 +72,14 @@ header-img: "img/semantic.jpg"
 - [英文写作辅助网站](http://phrasebank.manchester.ac.uk)
 - [10款屌炸天的chrome插件](https://zhuanlan.zhihu.com/p/65606735?utm_source=wechat_session&utm_medium=social&utm_oi=928747206062800896&from=groupmessage)
 -   [ Cmd Markdown](https://www.zybuluo.com/mdeditor)：一款不错的 markdown 编辑器，通过查看[caos](https://www.zybuluo.com/caos/note/84819)的网志发现的。
--   [**Bypass-分流抢票**](https://www.bypass.cn/):一个曾经的大学生做的抢票软件，免费，据说很好用。
+- [**Bypass-分流抢票**](https://www.bypass.cn/):一个曾经的大学生做的抢票软件，免费，据说很好用。
+-   [免代码爬虫1：集搜客网络爬虫软件](https://www.gooseeker.com/pro/product_mac.html)
+-   [免代码爬虫 2:八爪鱼](https://blog.csdn.net/mico_cmm/article/details/87276826)其官方网站为[八爪鱼](https://www.bazhuayu.com/tutorialIndex)
+-   [工具链-草料二维码](https://h5.clewm.net/?url=h.qr61.cn%2Fo2eikt%2FqgnpFUZ&hasredirect=1)
+-   [瞩目](https://zhumu.com/admin/meeting/manage/list)：国内替代 Zoom 的网络视频软件
+-   [云犀](http://www.yunxi.tv/)：国内视频在线直播和zoom备份地。
+-   [亿方云](https://v2.fangcloud.com/admin/management/index)：开智用的云存储。
+-   [路过图床](https://imgchr.com/):无限	30张/小时	慢速	120次/天	10M	标准	免费/仅限非商用
 
 ## 科研检索
 
@@ -96,6 +103,7 @@ header-img: "img/semantic.jpg"
 - [中国地方志数据库](http://lcd.ccnu.edu.cn)
 
 ## 搜书
+
 - [牛叉的淘宝卖家](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18215966358.9.8ad4d89fdGZmoP&id=568518116548)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [SobookCc](https://sobook.cc)
@@ -145,4 +153,7 @@ header-img: "img/semantic.jpg"
 - 2019-0421 增加维基揭秘网，前几天阿桑奇被捕了，放出了很多文件，还没来得及看看有啥好东西。
 - 2019-10-24 增加了 小弟调调，因为它创建并维护了[awesome-mac](https://github.com/jaywcjlove/awesome-mac)以及[中文诗歌](https://github.com/chinese-poetry等一些好玩的东西。
 - 2019-11-04 增加了[Good在线工具Kit](https://tool.lu)，我用到的是一个 ico 在线转换工具，当然还有其他好玩的东西。更新了IAToolkit开智信息分析工具箱的链接，链接到自己可控的地方。
+- 2019-12-04  增加了，免代码爬虫和工具链-草料二维码。
+- 2019-12-28 增加了“瞩目”网络会议 app；增加了亿方云。
+- 
 
