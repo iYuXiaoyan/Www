@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Python 读取 txt 文档中特定字符串之间的字符串 Python Read Data Between Characters In Txt"
+title: "Python 读取 txt 文档中特定字符串之间的字符串 "
+date: 2019-03-06
 categories: [blog]
 header-img: ""
 tags: [Python,txt,read,between characters ]
-description: 
+description: Python Read Data Between Characters In Txt
 ---
 
 ## 概述
@@ -21,7 +22,7 @@ description:
 
 ### 待处理 txt 文件例子
 
-下面这些内容是存放在一个叫做“xs.txt”的文件夹下。这是一台非常老的 SBE38-SM，它的压力数据格式不是很具有代表性，比如后期的新产品中这些字段已经发生了变化，例如PTCSB0不存在了，换成了“PTEMPA0”等。但是方法是一样的，只要将相关的字段进行替换即可满足我们的需要。
+下面这些内容是存放在一个叫做“xs.txt”的文件夹下。这是一台非常老的 SBE37-SM，它的压力数据格式不是很具有代表性，比如后期的新产品中这些字段已经发生了变化，例如PTCSB0不存在了，换成了“PTEMPA0”等。但是方法是一样的，只要将相关的字段进行替换即可满足我们的需要。
 
 ```
 dc
