@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python 读取 txt 文档中特定字符串之间的字符串 "
-date: 2019-03-06
+date: 2020-03-06
 categories: [blog]
 header-img: ""
 tags: [Python,txt,read,between characters ]
