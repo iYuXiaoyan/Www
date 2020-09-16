@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "仗理性只剑走天涯"
+title: "理性"
 description: "坚持理性，避免愚蠢"
 header-img: "img/semantic.jpg"
 ---
@@ -37,7 +37,7 @@ header-img: "img/semantic.jpg"
 
 
 
-### 啊
+### 理性列表
 
 本节心得
 感觉自己还不能够很好的梳理出来自己的逻辑。只是可以从里面抽出来一些比较有用的知识点。用我认同的查理芒格的话，就是说，如果我知道我会死在哪里，那我怎么都不会去那里——我会绕着走。
@@ -62,7 +62,7 @@ header-img: "img/semantic.jpg"
 
 - 2020-03-08 小焱 draft
 
-- 
+- 2020-09-16 小焱 upgrade lable to '理性'
 
     
 
