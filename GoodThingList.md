@@ -72,6 +72,8 @@ header-img: "img/semantic.jpg"
 - [百度云下载-不限速](http://pandownload.com/)
 - [外国-免费好用的在线pdf转换](https://smallpdf.com/cn)
 - [在线 pdf 转换器](<https://online2pdf.com/>)
+- [在线破解 rar](https://unrar.online/)
+- [py 暴力破解 rar](https://github.com/iAIClub/CompressedCrack)
 - [awesome-webApp](<https://github.com/brillout/awesome-web-apps>)
 - [Awesome-webAppMore](<https://github.com/aviaryan/awesome-no-login-web-apps>)
 - [英文写作辅助网站](http://phrasebank.manchester.ac.uk)
@@ -161,4 +163,5 @@ header-img: "img/semantic.jpg"
 - 2019-12-04  增加了，免代码爬虫和工具链-草料二维码。
 - 2019-12-28 增加了“瞩目”网络会议 app；增加了亿方云。
 - 2020-03-03 增加了“Awesome Mac”。
+- 2020-08-04 增加在线破解rar.
 
