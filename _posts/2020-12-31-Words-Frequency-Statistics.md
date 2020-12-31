@@ -22,15 +22,23 @@ description: 采用excel简单几步就可以将大量的数据（104万多行�
 
 具体的方法不再赘述，方法请见图。
 
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-abcd0e51ec377467.png)
-![image.png](https://upload-images.jianshu.io/upload_images/3785456-55d0c74fd34e5607.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-93b79e2cfd447698.png)
-![image.png](https://upload-images.jianshu.io/upload_images/3785456-b38ca47b4896ed7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png)
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-abdb39f8871af0a6.png)
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-50a1122bc187ba69.png)
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-38442c11e68ccc4f.png)
-![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-9a23c577bbb3279d.png)
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-abcd0e51ec377467.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-55d0c74fd34e5607.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-93b79e2cfd447698.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-b38ca47b4896ed7d.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-abdb39f8871af0a6.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-50a1122bc187ba69.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-38442c11e68ccc4f.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-9a23c577bbb3279d.png)
 
 ## 测试新图床
 
@@ -40,6 +48,26 @@ description: 采用excel简单几步就可以将大量的数据（104万多行�
 
 -   [Github+jsDelivr+PicGo 打造稳定快速、高效免费图床](https://www.itrhx.com/2019/08/01/A27-image-hosting/)
 -   [免费CDN：jsDelivr + Github](https://www.itrhx.com/2019/02/10/A18-free-cdn/)
+
+## 图床继续测试
+
+正确的引用方式应该是：https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png
+
+我的网页还是现实不出来，问题出在了哪里？
+
+![image.png](https://cdn.jsdeliver.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png)
+
+明白了，应该是delivr我写成了deliver。
+
+https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png
+
+测试：
+
+![](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png)
+
+测试本地粘贴到typora
+
+![ts201231](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/ts201231.png)
 
 ## 后记
 
