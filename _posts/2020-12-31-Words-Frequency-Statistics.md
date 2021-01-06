@@ -65,9 +65,9 @@ https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.p
 
 ![](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.png)
 
-测试本地粘贴到typora
+以下测试使用gif图：
 
-![ts201231](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/ts201231.png)
+![img](https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/20210106150357.gif)
 
 ## 后记
 
@@ -82,3 +82,4 @@ https://cdn.jsdelivr.net/gh/iyuxiaoyan/pic_bed/images/3785456-05e51dfcf653573f.p
 ## Log
 
 - 2020-12-31 小焱创建。测试新图床通过。
+- 2020-01-06  try gif.
