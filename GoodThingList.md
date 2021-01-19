@@ -54,11 +54,6 @@ header-img: "img/semantic.jpg"
 ## 好工具A
 
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html):开放免费的文字处理软件，跨平台。
-- 
-
-## 好工具B
-
-
 
 -   [极其棒的 Mac 下的工具集合Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
@@ -124,6 +119,12 @@ header-img: "img/semantic.jpg"
 
 -   [免费电子书基金会-Github](https://github.com/EbookFoundation)
 
+## 信息分析
+
+- [情报分析综合iyouport](https://www.iyouport.org)：情报及信息分析领域比较综合的一个网站。
+
+- [tradingeconomics-中文](https://zh.tradingeconomics.com/):主网站是[tradingeconomics](http://tradingeconomics.com/)提供全球196个国家/地区超过2000万种的经济指标数据，并且全部来源于各国家的官方数据。
+
 ## 计量校准
 
 - [国家计量技术规范全文公开系统](http://jjg.spc.org.cn/resmea/view/index)
@@ -168,5 +169,6 @@ header-img: "img/semantic.jpg"
 - 2019-12-04  增加了，免代码爬虫和工具链-草料二维码。
 - 2019-12-28 增加了“瞩目”网络会议 app；增加了亿方云。
 - 2020-03-03 增加了“Awesome Mac”。
-- 2020-08-04 增加在线破解rar.
+- 2020-08-04 增加在线破解rar。
+- 2021-01-19 增加信息分析中的[tradingeconomics](http://tradingeconomics.com/)和iyouport。
 
