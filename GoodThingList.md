@@ -51,7 +51,7 @@ header-img: "img/semantic.jpg"
 
 [iOS 编程](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
 
-## 好工具A
+## 好工具
 
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html):开放免费的文字处理软件，跨平台。
 
@@ -87,6 +87,7 @@ header-img: "img/semantic.jpg"
 -   [云犀](http://www.yunxi.tv/)：国内视频在线直播和zoom备份地。
 -   [亿方云](https://v2.fangcloud.com/admin/management/index)：开智用的云存储。
 -   [路过图床](https://imgchr.com/):无限	30张/小时	慢速	120次/天	10M	标准	免费/仅限非商用
+-   [Windows 10 有哪些值得推荐的必装软件](https://www.zhihu.com/question/35088093)：不少在线软件，等有时间挨个试试。
 
 ## 科研检索
 
@@ -124,6 +125,12 @@ header-img: "img/semantic.jpg"
 - [情报分析综合iyouport](https://www.iyouport.org)：情报及信息分析领域比较综合的一个网站。
 
 - [tradingeconomics-中文](https://zh.tradingeconomics.com/):主网站是[tradingeconomics](http://tradingeconomics.com/)提供全球196个国家/地区超过2000万种的经济指标数据，并且全部来源于各国家的官方数据。
+
+- [value500](value500.com)：投资理财的hao123，价值投资信徒的奥马哈。查市盈率的。
+
+- [智能法律咨询](https://ai.12348.gov.cn/) ：司法部出的这套智能法律咨询系统太牛了，覆盖99%日常生活中遇到的法律问题，甚至律师都可以用来作为primer。
+
+  
 
 ## 计量校准
 
@@ -171,4 +178,8 @@ header-img: "img/semantic.jpg"
 - 2020-03-03 增加了“Awesome Mac”。
 - 2020-08-04 增加在线破解rar。
 - 2021-01-19 增加信息分析中的[tradingeconomics](http://tradingeconomics.com/)和iyouport。
+- 2021-02-18 增加了[Windows 10 有哪些值得推荐的必装软件](https://www.zhihu.com/question/35088093)
+- 2021-02-20 增加了[智能法律咨询](https://ai.12348.gov.cn/) 
+
+
 
