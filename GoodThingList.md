@@ -53,10 +53,11 @@ header-img: "img/semantic.jpg"
 
 ## 好工具
 
+- [在线工具大集合tool.lu](https://tool.lu/)：一些有用的在线工具和离线推荐软件。
+
+- [在线文本内容比对](https://text-compare.com/zh-hans/)：可以比对两篇文章，用于“反洗稿”研究。
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html):开放免费的文字处理软件，跨平台。
-
--   [极其棒的 Mac 下的工具集合Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
-
+- [极其棒的 Mac 下的工具集合Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 - [非常Good的站长在线工具集](https://tool.lu)
 - [简明git命令](https://mp.weixin.qq.com/s/rk8e77pYkbsm9NEKA7n_sA)
 - [IAToolkit开智信息分析工具箱](https://github.com/iAIClub/IAToolkit)
@@ -117,8 +118,8 @@ header-img: "img/semantic.jpg"
 - [SobookCc](https://sobook.cc)
 - [MeBook.cc](http://mebook.cc)
 - [ReadFree.me](http://readfree.me)
-
 -   [免费电子书基金会-Github](https://github.com/EbookFoundation)
+-   [在线任意转换格式](https://www.zamzar.com):zamzar网站。
 
 ## 信息分析
 
