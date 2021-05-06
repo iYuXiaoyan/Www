@@ -54,7 +54,7 @@ header-img: "img/semantic.jpg"
 ## 好工具
 
 - [在线工具大集合tool.lu](https://tool.lu/)：一些有用的在线工具和离线推荐软件。
-
+- [CloudConvert](https://cloudconvert.com):免费使用CloudConvert，每天最多可进行25次转换 
 - [在线文本内容比对](https://text-compare.com/zh-hans/)：可以比对两篇文章，用于“反洗稿”研究。
 - [OpenOffice](http://www.openoffice.org/zh-cn/download/index.html):开放免费的文字处理软件，跨平台。
 - [极其棒的 Mac 下的工具集合Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
