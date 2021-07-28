@@ -131,6 +131,10 @@ header-img: "img/semantic.jpg"
 
 - [智能法律咨询](https://ai.12348.gov.cn/) ：司法部出的这套智能法律咨询系统太牛了，覆盖99%日常生活中遇到的法律问题，甚至律师都可以用来作为primer。
 
+- [中国统计年鉴-在线版](http://www.stats.gov.cn/tjsj/ndsj/2020/indexch.htm)：信息量极大，能对整个中国的信息有整体的把握；可将 2020 变换为其他年份，最早到2005。
+
+- [中证指数公司系列指数](http://www.csindex.com.cn/zh-CN/indices/index)：各种重要指数，可供参考。
+
   
 
 ## 计量校准
