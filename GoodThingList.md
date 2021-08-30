@@ -152,6 +152,9 @@ header-img: "img/semantic.jpg"
 
 > 查理芒格的综合网站待补充，另外有一堆牛人：道金斯、西蒙、斯坦诺维奇、马奇、芒格、丹尼尔丹尼特、费曼、纳博科夫、阿西莫夫、侯世达、帕金斯、艾科、阿奇舒勒、宇文所安、卡尼曼、吉仁泽、佐藤信夫、
 
+- [cnfeat:hardwaylab](https://hardwaylab.com/#):cnfeat做了个笨办法学一切的网站。这个选来的界面挺不错。
+- [浅唱博客](https://blog.qcnhy.cn/)-[PJ软件下载界面](https://blog.qcnhy.cn/tags/):一个Geek做的破解版软件的分享。
+
 ## 自由职业者
 
 -   [中国独立开发者项目列表 ](https://github.com/1c7/chinese-independent-developer)
