@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "作品"
-description: "创造独特的模因，打磨传世的作品。"
+title: "分类作品"
+description: "创造独特模因，打磨传世作品。"
 header-img: "img/semantic.jpg"
 ---
 

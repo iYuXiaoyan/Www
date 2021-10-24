@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "标签"
+title: "快速标签"
 description: "文章基因库"  
 header-img: "img/Red-Brown.jpg"  
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "好习惯"
+title: "日拱一卒"
 description: "坚持好习惯，执行最小行动。"
 header-img: "img/semantic.jpg"
 ---

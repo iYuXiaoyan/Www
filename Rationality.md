@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "理性"
-description: "坚持理性，避免愚蠢"
+title: "理性之剑"
+description: "运用理性，避免愚蠢"
 header-img: "img/semantic.jpg"
 ---
 
