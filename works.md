@@ -2,7 +2,7 @@
 layout: page
 title: "分类作品"
 description: "创造独特模因，打磨传世作品。"
-header-img: "img/semantic.jpg"
+header-img: "img/autumn2.jpg"
 ---
 
 >   以下是大概分类，主人比较懒，查看全部请见[归档](https://yuxiaoyan.com/archive.html)

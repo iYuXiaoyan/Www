@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "杰作书单"
+title: "主题书单"
 description: "书籍是人类进步的阶梯。坚持主题阅读，坚持最小行动。"
-header-img: "img/semantic.jpg"
+header-img: "img/Trello.jpg"
 ---
 
 

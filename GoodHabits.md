@@ -2,7 +2,7 @@
 layout: page
 title: "日拱一卒"
 description: "坚持好习惯，执行最小行动。"
-header-img: "img/semantic.jpg"
+header-img: "img/seagulls.jpg"
 ---
 
 ## Summary
