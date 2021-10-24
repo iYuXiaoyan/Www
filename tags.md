@@ -2,7 +2,7 @@
 layout: page
 title: "快速标签"
 description: "文章基因库"  
-header-img: "img/Red-Brown.jpg"  
+header-img: "img/tree.jpg"  
 ---
 
 ## 本页使用方法
