@@ -3,7 +3,7 @@ layout: post
 title: "CTD计量校准技术培训教程（深度部分）V1.0"
 date: 2021-10-22
 categories: [blog]
-header-img: ""
+header-img: "img/twitter.jpg"
 tags: [CTD,温盐深测量仪,校准,压力,深度,calibration,pressure,depth]
 description: CTD校准讲解，深度部分。
 ---

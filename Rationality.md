@@ -5,8 +5,6 @@ description: "运用理性，避免愚蠢"
 header-img: "img/Xacebook.jpg"
 ---
 
-##Summary
-
 >   运用理性，避免愚蠢。
 
 ## 正文
