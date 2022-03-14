@@ -163,6 +163,7 @@ header-img: "img/semantic.jpg"
 
 ## 好工具
 
+- [LICEcap](https://www.cockos.com/licecap/):简单轻量的动画屏幕捕获工具。
 - [在线工具大集合tool.lu](https://tool.lu/)：一些有用的在线工具和离线推荐软件。
 - [CloudConvert](https://cloudconvert.com):免费使用CloudConvert，每天最多可进行25次转换 
 - [在线文本内容比对](https://text-compare.com/zh-hans/)：可以比对两篇文章，用于“反洗稿”研究。
@@ -300,5 +301,5 @@ header-img: "img/semantic.jpg"
 - 2021-02-20 增加了[智能法律咨询](https://ai.12348.gov.cn/) 
 
 -   211024 合并了 AZ 模板中的 Tools.md
--   
+-   220314 增加了LICEcap 屏幕局部视频录像 为gif的小工具。
 
