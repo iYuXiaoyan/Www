@@ -277,7 +277,21 @@ header-img: "img/semantic.jpg"
 -   [国外的自由职业者](https://github.com/mezod/awesome-indie)
 -   [老阳-模因公社](http://memeworks.org/)
 
+
+
+## 写作工具
+
+- [万词王](https://wantwords.net/)：一个开源的在线反向词典
+
+  > 万词王是一个反向词典系统，由清华大学自然语言处理实验室出品，广泛收录了多部词典数据，通过深度学习算法，实现通过描述意思来查询词语，解决用词烦恼。应用：你可以试试“形容人聪明”搜索，你会看到100种夸法.贡献者：江浩
+
+- [秘塔写作猫](https://xiezuocat.com/)：中文错别字网站A。
+- [火龙果写作](https://www.mypitaya.com/):顺带补充两个中文错别字网站吧：秘塔写作猫以及火龙果写作。最好两个软件同时使用，检验的更准确点。 软件缺点就是每天使用有字数限制。@贡献者：阿帅。
+
+
+
 ## 其他
+
 - [维基解密网-by 阿桑奇](https://file.wikileaks.org/file/)
 
 ### ChangeLog
@@ -302,4 +316,5 @@ header-img: "img/semantic.jpg"
 
 -   211024 合并了 AZ 模板中的 Tools.md
 -   220314 增加了LICEcap 屏幕局部视频录像 为gif的小工具。
+-   220413 增加了写作工具栏目，增加了“万词王”等3项。
 
