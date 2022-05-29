@@ -200,6 +200,7 @@ header-img: "img/semantic.jpg"
 -   [亿方云](https://v2.fangcloud.com/admin/management/index)：开智用的云存储。
 -   [路过图床](https://imgchr.com/):无限	30张/小时	慢速	120次/天	10M	标准	免费/仅限非商用
 -   [Windows 10 有哪些值得推荐的必装软件](https://www.zhihu.com/question/35088093)：不少在线软件，等有时间挨个试试。
+-   [卡拉云低代码工具](https://kalacloud.com):硅谷程序员[谢科](https://www.zhihu/people/xie-ke-41)做的网站：极速搭建业务系统数十倍提升开发效率。
 
 ## 科研检索
 
