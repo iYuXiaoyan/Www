@@ -207,7 +207,11 @@ header-img: "img/semantic.jpg"
 - [VQGAN+CLIP Text to Art Generator](https://creator.nightcafe.studio/text-to-image-art): AI帮您在线画画-如何把你的想法一键变成图画？
 - [HotPot-art-maker](https://hotpot.ai/art-maker):AI结合文字和图片生成新的图片。
 
-## 科研检索
+## 视频工具
+
+- [ Arctime4.0](https://arctime.org/):简单、强大、高效的跨平台字幕制作软件。王佩老师推荐:最好字幕工具没有之一 。
+- [剪映](https://www.capcut.cn)：抖音开发的一款好用软件。深圳市脸萌科技有限公司开发？
+- [FaceU激萌](https://faceu.mobi/about/index.html)： 深圳市脸萌科技有限公司开发的。
 
 ## 科研检索
 
