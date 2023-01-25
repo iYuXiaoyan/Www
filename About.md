@@ -76,9 +76,7 @@ header-img: "img/green.jpg"
 >  请忽略上述标签
 
 -   有趣的事情，我都很喜欢；So，欢迎有趣的人来撩。
--   着急联系我请给我发个Email，Email的标题简明扼要表达来意，如有必要将很快会获得回应。Email 地址见下图:
-
-![image-20211024172610462](https://tva1.sinaimg.cn/large/008i3skNly1gvqj1emuwtj60f001u74802.jpg)
+-   着急联系我请给我发个Email，Email的标题简明扼要表达来意，如有必要将很快会获得回应。Email 地址：dropbox[#]139.com，把 [#] 替换为 @即可。
 
 ### Log
 
