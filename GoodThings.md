@@ -207,6 +207,10 @@ header-img: "img/semantic.jpg"
 - [VQGAN+CLIP Text to Art Generator](https://creator.nightcafe.studio/text-to-image-art): AI帮您在线画画-如何把你的想法一键变成图画？
 - [HotPot-art-maker](https://hotpot.ai/art-maker):AI结合文字和图片生成新的图片。
 
+## ChatGPT及衍生
+
+- 一个已经并且将被重复验证的事实（即刻：Wenser）:chatgpt的 prompt (示例)将成为未来各类职业的基础培训内容和基本素养，chatgpt 将会改变现有的职场格局。这是一个  [chatgpt 的prompt 收藏数据库](sharegpt.com)，帮助你[高效]、[规范]、[全面] 地了解与 chatgpt沟通对话学习的工具。另附[直接变现通道](promptbase.com): ，你的 prompt 一经采用，即可获得 20美元的奖励。
+
 ## 视频工具
 
 - [ Arctime4.0](https://arctime.org/):简单、强大、高效的跨平台字幕制作软件。王佩老师推荐:最好字幕工具没有之一 。
